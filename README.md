@@ -1,4 +1,4 @@
-
+![photo png](https://user-images.githubusercontent.com/112764589/216500030-e5d64462-183c-46b9-b34f-0b33929c045a.jpg)
 
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
 <h2 align="center">A passionate Java Backend developer from India</h2>
