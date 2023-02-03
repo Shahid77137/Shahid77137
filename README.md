@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahid77137&label=Profile%20views&color=0e75b6&style=flat" alt="shahid77137" /> </p>
