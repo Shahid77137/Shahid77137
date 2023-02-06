@@ -27,9 +27,9 @@
 
 - 📫 How to reach me `shahid77137@gmail.com`
 
-- 📝 I regularly Solve Problem on HackerRank [https://www.hackerrank.com/siddiquibabuddi1](https://www.hackerrank.com/siddiquibabuddi1)
+- 📝 I regularly Solve Problem on HackerRank (https://www.hackerrank.com/siddiquibabuddi1)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link](https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link)
 
 
 -----------
