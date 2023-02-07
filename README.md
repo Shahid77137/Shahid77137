@@ -29,7 +29,9 @@
 
 - 📝 I regularly Solve Problem on HackerRank (https://www.hackerrank.com/siddiquibabuddi1)
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link)
+- 👨🏻‍🎓 Visit my **[Portfolio](https://Shahid77137.github.io/)**
+
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link)**
 
 
 -----------
