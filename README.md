@@ -6,6 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
+
 <h2 align="center">A passionate Java Backend developer from India</h2>
 
 --------
@@ -22,6 +23,8 @@
 - 🌱 I’m currently learning  I’m currently learning JAVA, Spring-boot, Spring-Security, Hibernate and Microservices
 
 - 🔭 My Solo Project [FemSha Shop](https://femsha-shop-website.vercel.app/)
+  
+- 🔭 My Solo Project [Food Website](https://spontaneous-malasada-746986.netlify.app/)
   
 - 🔭 My Solo Project [Beauty Queen](https://admirable-panda-d420f4.netlify.app/)
 
