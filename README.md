@@ -30,7 +30,7 @@
 
 - 👯 My Collaborative Project [Geeks Buying](https://effulgent-syrniki-67b038.netlify.app/newarrival)
 
-- 📫 How to reach me `shahidafridi77137@gmail.com`
+- 📫 How to reach me **shahidafridi77137@gmail.com**
 
 <!-- - 📝 I regularly Solve Problem on **[HackerRank](https://www.hackerrank.com/siddiquibabuddi1)** -->
 
