@@ -19,9 +19,9 @@
 
 # 💫 About Me:
 
+- 🌱 I’m currently learning  I’m currently learning JAVA, Spring-boot, Spring-Security,Hibernate and Microservices 
+  
 - 🔭 My Solo Project [Beauty Queen](https://admirable-panda-d420f4.netlify.app/)
-
-- 🌱 I’m currently learning **Java Backend Development**
 
 - 👯 My Collaborative Project [Geeks Buying](https://effulgent-syrniki-67b038.netlify.app/newarrival)
 
