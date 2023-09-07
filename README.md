@@ -19,7 +19,9 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning  I’m currently learning JAVA, Spring-boot, Spring-Security,Hibernate and Microservices 
+- 🌱 I’m currently learning  I’m currently learning JAVA, Spring-boot, Spring-Security, Hibernate and Microservices
+
+- 🔭 My Solo Project [FemSha Shop](https://femsha-shop-website.vercel.app/)
   
 - 🔭 My Solo Project [Beauty Queen](https://admirable-panda-d420f4.netlify.app/)
 
