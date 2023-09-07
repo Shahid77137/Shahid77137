@@ -36,12 +36,12 @@
 
 - 👨🏻‍🎓 Visit my Portfolio https://shahid77137.github.io/
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1qHGUfyzCZpWwPCLKIIJxZzLu07ItXL84/view?usp=share_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1UY6GNjzMG_IwLTABfDIzVp7rVSjbnKqm/view?usp=sharing)**
 
 
 -----------
 
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find<br>🌱 I’m currently learning Java backend development from Masai School<br>💬 Ask me about JavaScript, Java, Spring Boot<br>⚡ Fun fact I am soft but can't melt 
+🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find<br>🌱 I’m currently learning Java backend development from Masai School<br>💬 Ask me about JavaScript, JAVA, Spring-boot, Spring-Security, Hibernate and Microservices<br>⚡ Fun fact I am soft but can't melt 
 
 -----------
 
