@@ -33,8 +33,8 @@
 - 📫 How to reach me **shahidafridi77137@gmail.com**
 
 <!-- - 📝 I regularly Solve Problem on **[HackerRank](https://www.hackerrank.com/siddiquibabuddi1)** -->
-
-- 👨🏻‍🎓 Visit my Portfolio https://shahid77137.github.io/
+  
+- To know more about me please 👨🏻‍🎓 Visit **[My Prtfolio](https://shahid77137.github.io/)**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1UY6GNjzMG_IwLTABfDIzVp7rVSjbnKqm/view?usp=sharing)**
 
