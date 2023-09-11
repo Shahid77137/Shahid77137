@@ -34,7 +34,7 @@
 
 <!-- - 📝 I regularly Solve Problem on **[HackerRank](https://www.hackerrank.com/siddiquibabuddi1)** -->
   
-- To know more about me please 👨🏻‍🎓 Visit **[My Prtfolio](https://shahid77137.github.io/)**
+- To know more about me please do 👨🏻‍🎓 Visit **[My Prtfolio](https://shahid77137.github.io/)**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1UY6GNjzMG_IwLTABfDIzVp7rVSjbnKqm/view?usp=sharing)**
 
@@ -55,6 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
