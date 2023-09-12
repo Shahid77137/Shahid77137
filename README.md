@@ -41,9 +41,13 @@
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1UY6GNjzMG_IwLTABfDIzVp7rVSjbnKqm/view?usp=sharing)**
 
 
------------
-
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a chrome extension that can find<br>🌱 I’m currently learning Java backend development from Masai School<br>💬 Ask me about JavaScript, JAVA, Spring-boot, Spring-Security, Hibernate and Microservices<br>⚡ Fun fact I am soft but can't melt 
+- 🔭 I’m currently working on content creation
+- 👯 I’m looking to collaborate on software testing-related content creation
+- 🤝 I’m looking for help with developing a chrome extension that can find
+- 🔄 Routine : **Eat - Sleep - Code - Repeat.**
+- 🌱 I’m currently learning Java backend development from Masai School
+- 💬 Ask me about JavaScript, JAVA, Spring-boot, Spring-Security, Hibernate and Microservices
+- ⚡ Fun fact I am soft but can't melt 
 
 -----------
 
