@@ -67,6 +67,7 @@
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false)<br/>
 -->
+
 <div align="center">
 
 # <h2> 📊 GitHub Stats:</h2>
@@ -93,6 +94,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shahid77137&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Shahid77137)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
