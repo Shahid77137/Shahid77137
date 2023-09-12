@@ -46,9 +46,11 @@
 - 🤝 I’m looking for help with developing a chrome extension that can find
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 - 🌱 I’m currently learning Java backend development from Masai School
-- 💪🏼 Fav Quote: "Experience is the name everyone gives to their mistakes".
+- 💪🏼 Fav Quote : "Experience is the name everyone gives to their mistakes".
 - 💬 Ask me about JavaScript, JAVA, Spring-boot, Spring-Security, Hibernate and Microservices
-- ⚡ Fun fact about me **I am soft but can't melt.** 
+- ⚡ Fun fact about me **I am soft but can't melt.**
+- ⚡ My Hobbies are **Coding, Reading books & playing cricket**.
+
 
 -----------
 
