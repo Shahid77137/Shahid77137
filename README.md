@@ -47,7 +47,7 @@
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 - 🌱 I’m currently learning Java backend development from Masai School
 - 💬 Ask me about JavaScript, JAVA, Spring-boot, Spring-Security, Hibernate and Microservices
-- ⚡ Fun fact I am soft but can't melt 
+- ⚡ Fun fact about me **I am soft but can't melt.** 
 
 -----------
 
