@@ -51,8 +51,7 @@
 - ⚡ Fun fact about me **I am soft but can't melt.**
 - ⚡ My Hobbies are **Coding, Reading books & playing cricket**.
 
-
------------
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-afridi-40ab93241) 
