@@ -64,14 +64,14 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
 
 
-
-
+<!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false)<br/>
+-->
 <div align="center">
 
 # <h2> 📊 GitHub Stats:</h2>
 
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?userShahid77137&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false)<br/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false"/>
 
 [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
