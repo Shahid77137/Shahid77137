@@ -100,6 +100,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Shahid77137)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
