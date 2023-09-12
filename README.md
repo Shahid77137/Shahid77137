@@ -33,8 +33,6 @@
 - 👯 My Collaborative Project [Geeks Buying](https://effulgent-syrniki-67b038.netlify.app/newarrival)
 
 - 📫 How to reach me **shahidafridi77137@gmail.com**
-
-<!-- - 📝 I regularly Solve Problem on **[HackerRank](https://www.hackerrank.com/siddiquibabuddi1)** -->
   
 - To know more about me please do 👨🏻‍🎓 Visit **[My Prtfolio](https://shahid77137.github.io/)**
 
@@ -83,12 +81,6 @@
 
 
 
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
 
