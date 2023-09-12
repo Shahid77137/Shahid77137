@@ -1,6 +1,7 @@
 <!-- ![photo png](https://user-images.githubusercontent.com/112764589/216500030-e5d64462-183c-46b9-b34f-0b33929c045a.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
+<h2 align="center">A passionate Java Backend developer from India</h2>
 
 <!-- <img align="right" alt="coding" width="1100" Height="400" src="https://miro.medium.com/v2/resize:fit:1000/1*40zOAq7EDNtlkOlyRUB79A.jpeg"> -->
 <img align="right" alt="coding" width="1200" Height="500" src="https://c0.wallpaperflare.com/preview/672/984/942/laptop-computer-keyboard-technology.jpg">
@@ -8,7 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India">
 
 
-<h2 align="center">A passionate Java Backend developer from India</h2>
 
 --------
 
