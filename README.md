@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India">
 
 <img align="right" alt="coding" width="1100" Height="400" src="https://miro.medium.com/v2/resize:fit:1000/1*40zOAq7EDNtlkOlyRUB79A.jpeg">
-<img align="right" alt="coding" width="1100" Height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74Pbzl2EXVU1KmsaCOa1hFwgCyRFpWAjNAg&usqp=CAU">
+<img align="right" alt="coding" width="1100" Height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MElIyAMZyamvZYPorAXTZXvwMnOnzdh3sbIwZ5fzf0hZNxbFBcyrBWBDATJjLPZIU8E&usqp=CAU">
 
 
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
