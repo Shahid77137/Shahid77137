@@ -68,10 +68,11 @@
 
 <div align="center">
 
-# <h2> 📊 GitHub Stats:</h2>
+# <h1> 📊 GitHub Stats:</h1>
 
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false"/>
-![](https://github-readme-stats.vercel.app/api?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid77137&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  
 
 [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Shahid77137/My-Github/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
