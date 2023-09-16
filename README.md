@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
+
 <h2 align="center">A passionate Java Backend developer from India</h2>
 
 <img align="right" alt="coding" width="1200" Height="500" src="https://c0.wallpaperflare.com/preview/672/984/942/laptop-computer-keyboard-technology.jpg">
