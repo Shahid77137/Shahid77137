@@ -54,9 +54,9 @@
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="width: 100%;"></a>
 
-<!--
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahid77137&theme=radical&hide_border=false)<br/>
--->
+
 
 
 <div align="center">
